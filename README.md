@@ -5,3 +5,4 @@
 - A medida que o trabalho é desenvolvido vai sendo subida as versões mais recentes.
 - Ou melhor dizendo, a medida que o estudo é realizado eu subo a versão do estudo mais recente, para registrar o progresso.
 - O arquivo "AnaliseVendasCasasFinal" tem por intuito ser o produto final do estudo.
+- Ao final do arquivo "AnaliseVendasCasasFinal" existe um relatorio do Seetviz que tem por objetivo validar a analise.
